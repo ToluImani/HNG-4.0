@@ -1,7 +1,7 @@
 
 
 body {
-	color: white;
+	color: #234C87;
 	background: none;
 	background-color: #EFF6FF !important;
 	font-family: 'Montserrat', sans-serif;
@@ -24,13 +24,17 @@ p{
 .ini-div{
 	margin-top: 2%;
     text-align: right;
-    margin-right: 5%;
+	margin-right: 5%;
+	color: #234C87;
 }
 .first-div{
 	margin-top: 3%;
 }
 .second-div{
-	margin-top: 1%;
+	margin-top: -1%;
+}
+.third-div{
+	margin-top: -1%;
 }
 .text-h2{
 	color: #4C6280;
